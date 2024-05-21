@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+    margin: 300px;
+}
+
+#input-box{
+    width: 300px;
+    border-radius: 3px;
+    text-align: center;
+}
+#abc1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+}
+.add-todo{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
